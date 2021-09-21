@@ -1,6 +1,5 @@
 # Breast-Cancer-Wisconsin-Diagnostic-Data-Set-Predict-whether-the-cancer-is-benign-or-malignant-
-Breast Cancer Wisconsin (Diagnostic) Data Set Predict whether the cancer is benign or malignant using  C5.0 Model and How to improve model performance 
-
+Breast Cancer Wisconsin (Diagnostic) Data Set Predict whether the cancer is benign or malignant using  C5.0 Model 
 Predict whether the cancer is benign or malignant  -Kaggle Data Set 
 
 Dataset Available here : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
